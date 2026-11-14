@@ -1,0 +1,10 @@
+*.tar.gz
+*.zip
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
