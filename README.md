@@ -4,9 +4,11 @@
 
 ## 사이트
 
-https://lavento-style-nov14.perfectbanjo2.chatgpt.site
+공개 사이트: https://8project-sample.vercel.app/
 
-현재 Sites 게시본은 소유자 비공개입니다. 이 저장소로 푸시해도 GitHub Pages가 자동으로 활성화되지는 않습니다.
+Vercel 프로젝트: https://vercel.com/eslee0424-ctrl/8project-sample
+
+Vercel 배포 설정: Framework Preset은 `Other`, Root Directory는 `lavento/dist`입니다. 별도 빌드 명령은 필요하지 않습니다. 2026-11-14 프로덕션 배포 완료 및 실제 페이지 열림을 확인했습니다. 기존 Sites 게시본은 소유자 비공개로 유지합니다.
 
 ## 자료 구성
 
